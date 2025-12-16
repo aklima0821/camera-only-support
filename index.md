@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 
-    
+<body>    
 <h1>Camera Only – Support</h1>
 
 <p>
