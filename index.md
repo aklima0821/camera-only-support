@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 </head>
 <body style="font-family: Arial, sans-serif; line-height:1.6; color:#333; margin:0; padding:20px;">
 
-<h1 style="color:#111;">Camera Only – Support</h1>
 
 <p>
 Thank you for using <strong>Camera Only</strong>.<br>
@@ -65,4 +63,3 @@ We appreciate your trust and support.
 </p>
 
 </body>
-</html>
